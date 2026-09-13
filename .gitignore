@@ -1,0 +1,11 @@
+# --- Andaime local: instrução para instâncias (guia de trabalho, não conteúdo do repo) ---
+_repo_instrucoes_instancia.md
+
+# --- Segurança (defesa em profundidade, mesmo sendo repo privado) ---
+*.env
+.env
+*.key
+*.pem
+*.pfx
+*_credencial*
+*_senha*
