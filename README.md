@@ -2,6 +2,8 @@
 
 Os mascotes da NUD by Whatevertr, prontos para instalar no Codex (OpenAI) como *mascote*: o **alien**, **TARS**, **ROCKY**, **CASE** e o **marcador vivo** `[·]`. Pixel art, estado noite.
 
+![os cinco mascotes na tela do Codex](prints/mascotes.png)
+
 ## Instalar no Codex
 
 1. Baixe este repositório (**Code → Download ZIP**) e descompacte.
@@ -12,14 +14,14 @@ Os mascotes da NUD by Whatevertr, prontos para instalar no Codex (OpenAI) como *
 
 ## Os cinco
 
-| | Pasta | Quem é |
-|---|---|---|
-| ![alien](prints/mascote-alien.png) | `pets/nud-alien-noite/` | o alien, mascote da marca |
-| ![TARS](prints/mascote-tars.png) | `pets/nud-tars-noite/` | TARS, a Pensadora |
-| ![ROCKY](prints/mascote-rocky.png) | `pets/nud-rocky-noite/` | ROCKY, a Gerente |
-| ![CASE](prints/mascote-case.png) | `pets/nud-case-noite/` | CASE, a Trabalhadora |
-| ![marcador vivo](prints/mascote-marcador.png) | `pets/nud-marcador-vivo-noite/` | o marcador vivo `[·]` |
+| Pasta | Quem é |
+|---|---|
+| `pets/nud-alien-noite/` | o alien, mascote da marca |
+| `pets/nud-tars-noite/` | TARS, a Pensadora |
+| `pets/nud-rocky-noite/` | ROCKY, a Gerente |
+| `pets/nud-case-noite/` | CASE, a Trabalhadora |
+| `pets/nud-marcador-vivo-noite/` | o marcador vivo `[·]` |
 
 TARS, ROCKY e CASE são as três funções do [Método Constelação](https://github.com/whatevertr/constellation-method): pensar, conduzir e executar.
 
-Licença: ver `LICENSE`. Thainá Ramos (Nud by Whatevertr).
+Licença: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.pt-br) (pode baixar e compartilhar com crédito; não pode modificar nem usar comercialmente). Thainá Ramos (Nud by Whatevertr).
