@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Mascote NUD — dia">
-  <title>Mascote NUD — alien — estado dia</title>
-  <path d="M14 44 C14 21, 50 21, 50 44 C50 52, 44 46, 38 50 C33 53, 29 46, 24 50 C19 53, 14 51, 14 44 Z" fill="#2C233D" stroke="#642DA4" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"></path>
-  <circle cx="26" cy="36" r="2.8" fill="#642DA4"></circle>
-  <circle cx="38" cy="36" r="2.8" fill="#642DA4"></circle>
-  <path d="M32 22 L32 12" fill="none" stroke="#993700" stroke-width="4" stroke-linecap="round"></path>
-  <circle cx="32" cy="8" r="4" fill="#993700"></circle>
-</svg>
