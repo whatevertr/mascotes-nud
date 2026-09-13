@@ -4,7 +4,10 @@
 
 Os mascotes da NUD by Whatevertr, prontos para instalar no Codex (OpenAI) como *mascote*: o **alien**, **TARS**, **ROCKY**, **CASE** e o **marcador vivo** `[·]`. Pixel art, estado noite.
 
-![os cinco mascotes na tela do Codex](prints/mascotes.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-night.svg">
+  <img alt="mascotes: os cinco mascotes NUD para o Codex" src="assets/banner-day.svg">
+</picture>
 
 ## Instalar no Codex
 
