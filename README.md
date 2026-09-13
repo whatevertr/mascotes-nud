@@ -1,27 +1,29 @@
+<p align="right"><a href="README.pt-BR.md">🇧🇷 Português</a></p>
+
 # mascotes
 
-Os mascotes da NUD by Whatevertr, prontos para instalar no Codex (OpenAI) como *mascote*: o **alien**, **TARS**, **ROCKY**, **CASE** e o **marcador vivo** `[·]`. Pixel art, estado noite.
+The NUD by Whatevertr mascots, ready to install in Codex (OpenAI) as a *pet*: the **alien**, **TARS**, **ROCKY**, **CASE** and the **living marker** `[·]`. Pixel art, night state.
 
-![os cinco mascotes na tela do Codex](prints/mascotes.png)
+![the five mascots on the Codex pets screen](prints/mascotes.png)
 
-## Instalar no Codex
+## Install in Codex
 
-1. Baixe este repositório (**Code → Download ZIP**) e descompacte.
-2. No Codex: **Configurações → Mascotes → Criar mascote**, e aponte para a pasta do mascote que você quer (cada pasta dentro de `pets/` é um mascote: `pet.json` + `spritesheet.webp`).
-3. Se preferir fazer à mão: copie as pastas de `pets/` para `C:\Users\<seu usuário>\.codex\pets\` (Windows) ou `~/.codex/pets/` (Mac e Linux) e reabra o Codex.
+1. Download this repository (**Code → Download ZIP**) and unzip it.
+2. In Codex: **Settings → Pets → Create pet**, and point to the folder of the mascot you want (each folder inside `pets/` is one mascot: `pet.json` + `spritesheet.webp`).
+3. If you prefer to do it by hand: copy the folders from `pets/` into `C:\Users\<your user>\.codex\pets\` (Windows) or `~/.codex/pets/` (Mac and Linux), then reopen Codex.
 
-`Alt+Win+P` mostra e esconde o mascote na tela.
+`Alt+Win+P` shows and hides the pet on screen.
 
-## Os cinco
+## The five
 
-| Pasta | Quem é |
+| Folder | Who it is |
 |---|---|
-| `pets/nud-alien-noite/` | o alien, mascote da marca |
-| `pets/nud-tars-noite/` | TARS, a Pensadora |
-| `pets/nud-rocky-noite/` | ROCKY, a Gerente |
-| `pets/nud-case-noite/` | CASE, a Trabalhadora |
-| `pets/nud-marcador-vivo-noite/` | o marcador vivo `[·]` |
+| `pets/nud-alien-noite/` | the alien, the brand's mascot |
+| `pets/nud-tars-noite/` | TARS, the Thinker |
+| `pets/nud-rocky-noite/` | ROCKY, the Manager |
+| `pets/nud-case-noite/` | CASE, the Worker |
+| `pets/nud-marcador-vivo-noite/` | the living marker `[·]` |
 
-TARS, ROCKY e CASE são as três funções do [Método Constelação](https://github.com/whatevertr/constellation-method): pensar, conduzir e executar.
+TARS, ROCKY and CASE are the three functions of the [Constellation Method](https://github.com/whatevertr/constellation-method): think, conduct and execute.
 
-Licença: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.pt-br) (pode baixar e compartilhar com crédito; não pode modificar nem usar comercialmente). Thainá Ramos (Nud by Whatevertr).
+License: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) (you may download and share with credit; you may not modify or use commercially).
